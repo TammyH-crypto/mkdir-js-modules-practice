@@ -1,4 +1,4 @@
-To export a function means to call that file from another folder to use on your main file.
+To export a function means to call that file from another folder to use on your main file not compatiable with es6
 
 import means to call multiple names within a function to the same file and cannot be used in es6
 
